@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<!-- ![RaphaZRZ GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaZRZ&theme=holi)<br> -->
+![RaphaZRZ GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaZRZ&theme=holi)<br> 
 <!-- ![RaphaZRZ](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaZRZ&theme=blue-green) -->
 
 📫 How to reach me -> raphazlinked@gmail.com
